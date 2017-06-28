@@ -63,7 +63,3 @@ npm run pack:linux
 npm run test
 ```
 
-## Maintainers
-
-- [@jschr](https://github.com/jschr)
-- [@pronebird](https://github.com/pronebird)
